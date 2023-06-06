@@ -27,6 +27,8 @@ All notable changes to this project are documented in this file.
  - Added functions on color: `transparentize`, `mix`, and `with-alpha`.
  - Added a `close()` function and a `close-on-click` boolean property to `PopupWindow`.
  - Added basic translation infrastructure with `@tr("...")`
+ - Added `absolute-x` and `absolute-y` properties to every element, for computing window-absolute positions.
+ - Added `primary` boolean property to `Button` to configure its visual appearance.
 
 ### Rust
 
@@ -35,6 +37,7 @@ All notable changes to this project are documented in this file.
  - Added `slint::Image::from_borrowed_gl_2d_rgba_texture` to create images from borrowed OpenGL textures.
  - In the Slint language, struct can be annotated with `@rust-attr(...)` that is forwarded as a Rust attribute (`#[...]`) for the generated struct
  - Added a `serde` feature to enable serialization of some Slint structure
+ - Added convenience `From` conversions for `ModelRc` from slices and arrays.
 
 ### C++
 
