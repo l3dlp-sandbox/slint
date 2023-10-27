@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-26 03:12+0000\n"
+"POT-Creation-Date: 2023-10-27 03:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,6 +44,46 @@ msgstr ""
 #: ./gallery.slint:20
 msgctxt "Menu"
 msgid "About"
+msgstr ""
+
+#: ./ui/pages/page.slint:25
+msgid "Widgets enabled"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:9
+msgid "ListView"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:10
+msgid "ListViews can be used to display a list of elements. The StandardListBox is like the default ListView just with a default text based definition of the visual items. Both can be imported from \"std-widgets.slint\""
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:25
+msgid "Item {}"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
+msgid "Lorem"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
+msgid "ipsum"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
+msgid "dolor"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
+msgid "sit"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
+msgid "amet"
+msgstr ""
+
+#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
+msgid "consetetur"
 msgstr ""
 
 #: ./ui/pages/table_view_page.slint:22
@@ -96,42 +136,6 @@ msgstr ""
 
 #: ./ui/pages/text_edit_page.slint:25
 msgid "No-Wrap"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:9
-msgid "ListView"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:10
-msgid "ListViews can be used to display a list of elements. The StandardListBox is like the default ListView just with a default text based definition of the visual items. Both can be imported from \"std-widgets.slint\""
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:25
-msgid "Item {}"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
-msgid "Lorem"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
-msgid "ipsum"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
-msgid "dolor"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
-msgid "sit"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
-msgid "amet"
-msgstr ""
-
-#: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
-msgid "consetetur"
 msgstr ""
 
 #: ./ui/pages/controls_page.slint:10
@@ -244,8 +248,4 @@ msgstr ""
 
 #: ./ui/pages/controls_page.slint:169
 msgid "Content of tab 3"
-msgstr ""
-
-#: ./ui/pages/page.slint:25
-msgid "Widgets enabled"
 msgstr ""
