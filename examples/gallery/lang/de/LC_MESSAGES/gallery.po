@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-08 03:12+0000\n"
+"POT-Creation-Date: 2023-12-09 03:12+0000\n"
 "PO-Revision-Date: 2023-06-06 13:52+0000\n"
 "Last-Translator: Olivier Goffart <olivier.goffart@slint-ui.com>, 2023\n"
 "Language-Team: German (https://app.transifex.com/slint/teams/170022/de/)\n"
@@ -82,36 +82,6 @@ msgstr ""
 msgid "Widgets enabled"
 msgstr ""
 
-#: ui/pages/table_view_page.slint:22
-msgid "TableView"
-msgstr ""
-
-#: ui/pages/table_view_page.slint:23
-msgid ""
-"StandardTableView can be used to display a list of text elements in columns "
-"and rows. It can be imported from \"std-widgets.slint\""
-msgstr ""
-
-#: ui/pages/table_view_page.slint:29
-msgid "StandardTableView"
-msgstr ""
-
-#: ui/pages/table_view_page.slint:42
-msgid "Header 1"
-msgstr ""
-
-#: ui/pages/table_view_page.slint:43
-msgid "Header 2"
-msgstr ""
-
-#: ui/pages/table_view_page.slint:44
-msgid "Header 3"
-msgstr ""
-
-#: ui/pages/table_view_page.slint:45
-msgid "Header 4"
-msgstr ""
-
 #: ui/pages/text_edit_page.slint:9
 msgid "TextEdit"
 msgstr ""
@@ -140,6 +110,36 @@ msgstr ""
 
 #: ui/pages/text_edit_page.slint:25
 msgid "No-Wrap"
+msgstr ""
+
+#: ui/pages/table_view_page.slint:22
+msgid "TableView"
+msgstr ""
+
+#: ui/pages/table_view_page.slint:23
+msgid ""
+"StandardTableView can be used to display a list of text elements in columns "
+"and rows. It can be imported from \"std-widgets.slint\""
+msgstr ""
+
+#: ui/pages/table_view_page.slint:29
+msgid "StandardTableView"
+msgstr ""
+
+#: ui/pages/table_view_page.slint:42
+msgid "Header 1"
+msgstr ""
+
+#: ui/pages/table_view_page.slint:43
+msgid "Header 2"
+msgstr ""
+
+#: ui/pages/table_view_page.slint:44
+msgid "Header 3"
+msgstr ""
+
+#: ui/pages/table_view_page.slint:45
+msgid "Header 4"
 msgstr ""
 
 #: ui/pages/controls_page.slint:10
