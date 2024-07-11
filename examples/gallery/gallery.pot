@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-10 03:17+0000\n"
+"POT-Creation-Date: 2024-07-11 03:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,33 +17,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./gallery.slint:14 ./gallery.slint:19
-msgid "Slint Widgets Gallery"
-msgstr ""
-
-#: ./gallery.slint:20
-msgctxt "Menu"
-msgid "Controls"
-msgstr ""
-
-#: ./gallery.slint:20
-msgctxt "Menu"
-msgid "ListView"
-msgstr ""
-
-#: ./gallery.slint:20
-msgctxt "Menu"
-msgid "TableView"
-msgstr ""
-
-#: ./gallery.slint:20
-msgctxt "Menu"
-msgid "TextEdit"
-msgstr ""
-
-#: ./gallery.slint:20
-msgctxt "Menu"
-msgid "About"
+#: ./ui/pages/page.slint:25
+msgid "Widgets enabled"
 msgstr ""
 
 #: ./ui/pages/text_edit_page.slint:9
@@ -68,6 +43,34 @@ msgstr ""
 
 #: ./ui/pages/text_edit_page.slint:25
 msgid "No-Wrap"
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:22
+msgid "TableView"
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:23
+msgid "StandardTableView can be used to display a list of text elements in columns and rows. It can be imported from \"std-widgets.slint\""
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:29
+msgid "StandardTableView"
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:42
+msgid "Header 1"
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:43
+msgid "Header 2"
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:44
+msgid "Header 3"
+msgstr ""
+
+#: ./ui/pages/table_view_page.slint:45
+msgid "Header 4"
 msgstr ""
 
 #: ./ui/pages/list_view_page.slint:9
@@ -104,38 +107,6 @@ msgstr ""
 
 #: ./ui/pages/list_view_page.slint:37 ./ui/pages/list_view_page.slint:38 ./ui/pages/list_view_page.slint:39 ./ui/pages/list_view_page.slint:40 ./ui/pages/list_view_page.slint:41 ./ui/pages/list_view_page.slint:42 ./ui/pages/list_view_page.slint:43
 msgid "consetetur"
-msgstr ""
-
-#: ./ui/pages/page.slint:25
-msgid "Widgets enabled"
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:22
-msgid "TableView"
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:23
-msgid "StandardTableView can be used to display a list of text elements in columns and rows. It can be imported from \"std-widgets.slint\""
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:29
-msgid "StandardTableView"
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:42
-msgid "Header 1"
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:43
-msgid "Header 2"
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:44
-msgid "Header 3"
-msgstr ""
-
-#: ./ui/pages/table_view_page.slint:45
-msgid "Header 4"
 msgstr ""
 
 #: ./ui/pages/controls_page.slint:10
@@ -248,4 +219,33 @@ msgstr ""
 
 #: ./ui/pages/controls_page.slint:169
 msgid "Content of tab 3"
+msgstr ""
+
+#: ./gallery.slint:14 ./gallery.slint:19
+msgid "Slint Widgets Gallery"
+msgstr ""
+
+#: ./gallery.slint:20
+msgctxt "Menu"
+msgid "Controls"
+msgstr ""
+
+#: ./gallery.slint:20
+msgctxt "Menu"
+msgid "ListView"
+msgstr ""
+
+#: ./gallery.slint:20
+msgctxt "Menu"
+msgid "TableView"
+msgstr ""
+
+#: ./gallery.slint:20
+msgctxt "Menu"
+msgid "TextEdit"
+msgstr ""
+
+#: ./gallery.slint:20
+msgctxt "Menu"
+msgid "About"
 msgstr ""
