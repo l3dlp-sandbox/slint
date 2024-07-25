@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 03:15+0000\n"
+"POT-Creation-Date: 2024-07-25 03:14+0000\n"
 "PO-Revision-Date: 2023-06-06 13:52+0000\n"
 "Last-Translator: Olivier Goffart <olivier.goffart@slint-ui.com>, 2023\n"
 "Language-Team: German (https://app.transifex.com/slint/teams/170022/de/)\n"
@@ -21,38 +21,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ui/pages/page.slint:25
-msgid "Widgets enabled"
+#: gallery.slint:14 gallery.slint:19
+msgid "Slint Widgets Gallery"
+msgstr "Slint Widgets Galerie"
+
+#: gallery.slint:20
+msgctxt "Menu"
+msgid "Controls"
 msgstr ""
 
-#: ui/pages/text_edit_page.slint:9
+#: gallery.slint:20
+msgctxt "Menu"
+msgid "ListView"
+msgstr ""
+
+#: gallery.slint:20
+msgctxt "Menu"
+msgid "TableView"
+msgstr ""
+
+#: gallery.slint:20
+msgctxt "Menu"
 msgid "TextEdit"
 msgstr ""
 
-#: ui/pages/text_edit_page.slint:10
-msgid ""
-"Similar to LineEdit, but can be used to enter several lines of text. The "
-"widget can be imported from \"std-widgets.slint\"."
-msgstr ""
-
-#: ui/pages/text_edit_page.slint:15
-msgid "Word-Wrap"
-msgstr ""
-
-#: ui/pages/text_edit_page.slint:18
-msgid ""
-"This is our TextEdit widget, which allows for editing text that spans over "
-"multiple paragraphs.\n"
-"For example this line starts in a new paragraph.\n"
-"\n"
-"When the amount of lines - due to wrapping and number of paragraphs - "
-"exceeds the available vertical height, a vertical scrollbar is shown that "
-"allows scrolling.\n"
-"You may want to enter a bit of text here then in order to make them visible."
-msgstr ""
-
-#: ui/pages/text_edit_page.slint:25
-msgid "No-Wrap"
+#: gallery.slint:20
+msgctxt "Menu"
+msgid "About"
 msgstr ""
 
 #: ui/pages/table_view_page.slint:22
@@ -140,6 +135,40 @@ msgstr ""
 #: ui/pages/list_view_page.slint:41 ui/pages/list_view_page.slint:42
 #: ui/pages/list_view_page.slint:43
 msgid "consetetur"
+msgstr ""
+
+#: ui/pages/page.slint:25
+msgid "Widgets enabled"
+msgstr ""
+
+#: ui/pages/text_edit_page.slint:9
+msgid "TextEdit"
+msgstr ""
+
+#: ui/pages/text_edit_page.slint:10
+msgid ""
+"Similar to LineEdit, but can be used to enter several lines of text. The "
+"widget can be imported from \"std-widgets.slint\"."
+msgstr ""
+
+#: ui/pages/text_edit_page.slint:15
+msgid "Word-Wrap"
+msgstr ""
+
+#: ui/pages/text_edit_page.slint:18
+msgid ""
+"This is our TextEdit widget, which allows for editing text that spans over "
+"multiple paragraphs.\n"
+"For example this line starts in a new paragraph.\n"
+"\n"
+"When the amount of lines - due to wrapping and number of paragraphs - "
+"exceeds the available vertical height, a vertical scrollbar is shown that "
+"allows scrolling.\n"
+"You may want to enter a bit of text here then in order to make them visible."
+msgstr ""
+
+#: ui/pages/text_edit_page.slint:25
+msgid "No-Wrap"
 msgstr ""
 
 #: ui/pages/controls_page.slint:10
@@ -260,33 +289,4 @@ msgstr ""
 
 #: ui/pages/controls_page.slint:169
 msgid "Content of tab 3"
-msgstr ""
-
-#: gallery.slint:14 gallery.slint:19
-msgid "Slint Widgets Gallery"
-msgstr "Slint Widgets Galerie"
-
-#: gallery.slint:20
-msgctxt "Menu"
-msgid "Controls"
-msgstr ""
-
-#: gallery.slint:20
-msgctxt "Menu"
-msgid "ListView"
-msgstr ""
-
-#: gallery.slint:20
-msgctxt "Menu"
-msgid "TableView"
-msgstr ""
-
-#: gallery.slint:20
-msgctxt "Menu"
-msgid "TextEdit"
-msgstr ""
-
-#: gallery.slint:20
-msgctxt "Menu"
-msgid "About"
 msgstr ""
